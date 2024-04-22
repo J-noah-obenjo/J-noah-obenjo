@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @J-noah-obenjo
-- 👀 I’m interested in ...making better society,health and fitness,art,design,animation,analytics,networking ,entrepreneurship
-- 🌱 I’m currently learning ...hcia datacom,data science,bsc business computing
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...email,phone contact,twitter,facebook
+👋 Hi, I’m @J-noah-obenjo
 
-<!---
-J-noah-obenjo/J-noah-obenjo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👀 I’m interested in making a better society, health and fitness, art, design, animation, analytics, networking, and entrepreneurship.
+
+🌱 I’m currently learning data science as a BSc Business Computing student, focusing on data analytics and business intelligence.
+
+💞️ I’m looking to collaborate on projects related to data-driven technologies, BI, and data analytics.
+
+📫 How to reach me:
+- Email: jeromnoah17@gmail.com
+- Twitter: [@jerome_benjo](https://twitter.com/jerome_benjo)
+- Facebook: [Jerome Obenjo](https://www.facebook.com/YourFacebookUsername)
+
+I'm also an IT enthusiast, diving deeper into technology, constantly learning and unlearning in advanced technologies. I'm passionate about data-driven technologies, BI, and data analytics.
+
